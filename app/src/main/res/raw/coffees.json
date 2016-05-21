@@ -1,0 +1,56 @@
+[
+  {
+    "cup": "ICE",
+    "id": "ar_01",
+    "kitchen": "ARCTIC",
+    "name": "Cannes-i fagylaltkávé"
+  },
+  {
+    "cup": "OTHER",
+    "id": "ar_01",
+    "kitchen": "ARABIC",
+    "name": "Arab kávé - gahwa"
+  },
+  {
+    "cup": "OTHER",
+    "id": "jp_02",
+    "kitchen": "JAPANESE",
+    "name": "Tokiói csokoládés málna"
+  },
+  {
+    "cup": "GREEN",
+    "id": "la_01",
+    "kitchen": "LATINO",
+    "name": "Kubai espresso"
+  },
+  {
+    "cup": "GLASS",
+    "id": "am_06",
+    "kitchen": "AMERICAN",
+    "name": "Miami beach-i vanília latte"
+  },
+  {
+    "cup": "ORANGE",
+    "id": "it_06",
+    "kitchen": "ITALIAN",
+    "name": "Cappuccino"
+  },
+  {
+    "cup": "GREEN",
+    "id": "it_02",
+    "kitchen": "ITALIAN",
+    "name": "Milánói espresso"
+  },
+  {
+    "cup": "ORANGE",
+    "id": "fr_03",
+    "kitchen": "FRENCH",
+    "name": "Bécsi kapucíner"
+  },
+  {
+    "cup": "GREEN",
+    "id": "it_01",
+    "kitchen": "ITALIAN",
+    "name": "Espresso Italiano"
+  }
+]
